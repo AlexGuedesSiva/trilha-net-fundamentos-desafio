@@ -65,11 +65,11 @@ namespace DesafioFundamentos.Models
                     {
                         Console.WriteLine($"{veiculos[contadorForeach]}");
                             contadorForeach++;
-                    }
+                    } 
             
             }else
             {
-                Console.WriteLine("Não há veículos estacionados.");//Desadio concluido
+                Console.WriteLine("Não há veículos estacionados.");
             }
         }
     }
